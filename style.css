@@ -44,12 +44,13 @@ img {
   color: #111111;
 }
 
-h2 {
+h1 {
   font-weight: 800;
   font-size: 24px;
 }
-h2:hover {
+h1:hover {
   color: hsl(47, 88%, 63%);
+  cursor: pointer;
 }
 .description {
   font-weight: 500;
